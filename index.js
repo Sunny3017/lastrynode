@@ -49,5 +49,5 @@ app.post("/contact", async (req, res) => {
 
 // ====== SERVER START ======
 app.listen(5000, () => {
-  console.log("Server running on http://localhost:5173/#/contact");
+  console.log("Server running on http://kashiui.netlify.app/#/contact");
 });
